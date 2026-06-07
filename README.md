@@ -1,29 +1,31 @@
 # Hi, I'm Vidhee Patel 👋
-
-🎓 MS Business Analytics @ Northeastern University  
+🎓 MS Business Analytics @ Northeastern University (Dec 2026)
 💻 CS Graduate from NYIT  
-📍 Boston, MA  
-🔍 Seeking Summer 2026 Internship | Data Analytics | Business Intelligence | Consulting
+📍 Cambridge, MA  
+🤖 AI & Automation Fellow @ Community Works LLC | Building production agentic AI systems
 
 ---
 
 ## 🛠️ Tech Stack
-**Languages:** Python · R · SQL · Java · HTML/CSS  
-**ML & Analytics:** Random Forest · K-Means · Logistic Regression · SVM · NLP · TF-IDF · PCA  
-**Tools:** Tableau · Power BI · Jupyter · Scikit-learn · TensorFlow · Pandas · Sanic  
-**Databases:** MySQL · PostgreSQL · SQLite · MongoDB  
+**Languages:** Python · R · SQL · Java  
+**ML & AI:** Scikit-learn · TensorFlow · Keras · BERT · TF-IDF · Anthropic API · RAG pipelines  
+**Analytics & BI:** Tableau · Power BI · Pandas · NumPy · PCA · K-Means  
+**Infra & Tools:** Supabase · PostgreSQL · MySQL · n8n · Twilio · Chatwoot · Git · REST APIs  
 
 ---
 
 ## 🚀 Featured Projects
-
 | Project | Description | Tools |
 |---------|-------------|-------|
-| [Airbnb Price Prediction](https://github.com/Vidhee843/airbnb-price-prediction) | ML pipeline on 5,618 listings achieving RMSE of 99.81 | Python, Scikit-learn |
-| [NYC Citi Bike Rebalancing](https://github.com/Vidhee843/citibike-rebalancing) | Analysis of 37M rides across 2,300+ stations | Python, Tableau |
-| [Fashion Retail Analytics](https://github.com/Vidhee843/fashion-retail-analytics) | 99.96% accuracy classifier on 42,388 products | R, Random Forest |
-| [Research Guard](https://github.com/Vidhee843/research-guard) | AI-powered research repository with NLP classification | Python, Sanic, SQL |
-| [Phishing URL Detection](https://github.com/Vidhee843/phishing-url-detection) | Neural network achieving 96% accuracy on 230K+ URLs | Python, TensorFlow |
+| [Lead Qualification Agent](https://github.com/Vidhee843/lead-qual-agent) | 5-stage agentic pipeline qualifying leads across 5 channels — production system at Community Works LLC | Anthropic API, Python, n8n, Twilio, Supabase |
+| [FinRAG-Eval](https://github.com/Vidhee843/finrag-eval) | RAG evaluation pipeline for SEC 10-K filings using BM25 + hybrid retrieval | Python, ChromaDB, BM25 |
+| [ActiveBoost](https://github.com/Vidhee843/Active-Boost) | Fitness tracking and social challenge app with Fitbit API integration | Python, Sanic, MySQL |
+| [Airbnb Price Prediction](https://github.com/Vidhee843/airbnb-price-prediction) | ML pipeline on 74K listings, 18% RMSE improvement | Python, Scikit-learn, XGBoost |
+| [NYC Citi Bike Rebalancing](https://github.com/Vidhee843/citibike-rebalancing) | Rebalancing strategy across 37M+ rides and 2,300+ stations | Python, SQL, Tableau |
+| [Research Guard](https://github.com/Vidhee843/research-guard) | NLP content filtering tool using BERT, TF-IDF, and Anthropic API | Python, BERT, Sanic |
+| [Phishing URL Detection](https://github.com/Vidhee843/phishing-url-detection) | Neural network achieving 96% accuracy on 230K+ URLs | Python, TensorFlow, Keras |
+| [Fashion Retail Analytics](https://github.com/Vidhee843/fashion-retail-analytics) | K-Means + PCA clustering on 42K products | R, K-Means, PCA |
+| [MISO Survey Storytelling](https://github.com/Vidhee843/miso-survey-analysis) | Data visualization and storytelling from FSU survey data | Python, Tableau |
 
 ---
 
